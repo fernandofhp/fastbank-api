@@ -4,11 +4,11 @@ Desafio prático de uma API Bancária assíncrona focada em alta performance, se
 
 | Tecnologia | Descrição |
 | --- | --- |
-|🏗️ **Framework** | FastAPI (Assíncrono) |
-|🗄️ **Banco de Dados** | SQLite3 com driver assíncrono `aiosqlite` |
-|🛠️ **Query Builder** | SQLAlchemy Core / `databases` |
-|🛡️ **Segurança** | Autenticação via Bearer Token JWT (PyJWT) |
-|✔️ **Validação** | Pydantic v2 (Modelos de entrada/saída e Payload) |
+|🏗️ **Framework** | ⚡FastAPI (Assíncrono) |
+|🗄️ **Banco de Dados** | 🎲SQLite3 com driver assíncrono `aiosqlite` |
+|🛠️ **Query Builder** | ⚗️SQLAlchemy Core / `databases` |
+|🛡️ **Segurança** | 🔐Autenticação via Bearer Token JWT (PyJWT) |
+|✔️ **Validação** | 📦Pydantic v2 (Modelos de 📥entrada/📤saída e Payload) |
 
 ## Principais Fluxos Implementados
 * **Segurança:** Middleware customizado de validação de tokens JWT direto nas requisições.
