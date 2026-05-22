@@ -10,7 +10,7 @@ Desafio prático de uma API Bancária assíncrona focada em alta performance, se
 |🛡️ **Segurança** | 🔐Autenticação via Bearer Token JWT (PyJWT) |
 |✔️ **Validação** | 📦Pydantic v2 (Modelos de 📥entrada/📤saída e Payload) |
 
-## Principais Fluxos Implementados
+## Principais Implementações
 * **Segurança:** Middleware customizado de validação de tokens JWT direto nas requisições.
 * **Contas:** Criação e listagem paginada de contas correntes.
 * **Transações:** Registro assíncrono de movimentações financeiras com cálculo automático e validação de saldo.
